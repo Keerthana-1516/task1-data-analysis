@@ -1,6 +1,7 @@
 Data Science Internship – Task 1
 
 👩‍🎓 Student Details
+
 Name: Sangepu Keerthana
 
 College: MRECW
@@ -8,6 +9,7 @@ College: MRECW
 Date: 15 May 2006
 
 📌 Project Overview
+
 This task is part of the Skillcraft Technology Data Science Internship.
 The goal is to learn basic data visualization using Python.
 
