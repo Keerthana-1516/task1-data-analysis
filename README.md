@@ -2,7 +2,9 @@ Data Science Internship – Task 1
 
 👩‍🎓 Student Details
 Name: Sangepu Keerthana
+
 College: MRECW
+
 Date: 15 May 2006
 
 📌 Project Overview
